@@ -1,0 +1,14 @@
+:root {
+    --deg: 10deg;
+  }
+
+  .wpmgfcf-template-default .gfcf-core-landing-page,
+  .wpmgfcf-template-default .gform_wrapper,
+ .layout-typeform .gfcf-typeform-footer-wrapper{
+    display: none;
+    /* transition: all .3s linear; */
+  }
+
+  /* .layout-default .gfcf-core-landing-page{
+    display: none;
+  } */

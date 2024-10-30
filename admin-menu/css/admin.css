@@ -1,0 +1,51 @@
+.gfcf-wrapper .gfcf-container{
+    max-width: 800px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background: #fffbe7;
+    padding: 20px 10px; 
+    line-height: 1.4;
+    font-size: 16px;
+    box-shadow: rgb(0 0 0 / 5%) 0px 6px 24px 0px, rgb(0 0 0 / 8%) 0px 0px 0px 1px;
+}  
+.gfcf-wrapper .gfcf-container p{
+    font-size: 16px;
+    margin: 0px;
+}
+
+.gfcf-wrapper .gfcf-container .gfcf-section{
+    padding: 20px;
+}
+.gfcf-wrapper .gfcf-container .gfcf-section:not(:last-child){
+    border-bottom: 1px dashed #786161;
+
+}
+.gfcf-wrapper .gfcf-container .gfcf-section .gfcf-section-heading{
+    text-align: center;
+}
+
+.gfcf-wrapper .gfcf-container .gfcf-section .gfcf-heading-text{
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+.gfcf-wrapper .gfcf-container .gfcf-row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 20px;
+
+}
+.gfcf-wrapper .gfcf-container .gfcf-row .gfcf-col-6{
+    width: 50%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.gfcf-add-on-blurb a{
+    box-shadow: none;
+}
+.gfcf-add-on-blurb img{
+    max-width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}

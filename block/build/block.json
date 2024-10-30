@@ -1,0 +1,216 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "wpm-gfcf/core",
+	"version": "0.1.0",
+	"title": "Gfcf Core",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Example static block scaffolded with Create Block tool.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "wpm-gfcf-core",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"attributes": {
+		"gfcfPageBackgroundColor": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfHeaderTextColor": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfHeaderBackgroundColor": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfButtonBackgroundColor": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfButtonColor": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfFilledProgressColor": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfInputBackgroundColor": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfInputBorderColor": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfInputColor": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfSublabelColor": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfButtonFontSize": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfDescriptionFontSize": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfChoicesFontSize": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfInputFontSize": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfSubLabelFontSize": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfLabelFontSize": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfButtonFontSizeTab": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfDescriptionFontSizeTab": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfChoicesFontSizeTab": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfInputFontSizeTab": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfSubLabelFontSizeTab": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfLabelFontSizeTab": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfButtonFontSizePhone": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfDescriptionFontSizePhone": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfChoicesFontSizePhone": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfInputFontSizePhone": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfSubLabelFontSizePhone": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfLabelFontSizePhone": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfInputPadding": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfButtonPadding": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfInputPaddingTab": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfButtonPaddingTab": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfInputPaddingPhone": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfButtonPaddingPhone": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfInputAnimation": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfButtonAnimation": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfHeaderFontFamily": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfBodyFontFamily": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfTheme": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfConversationLayout": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfLayoutType": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfLayoutImage": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfLandingTitle": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfLandingDescription": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfLandingUrl": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfLandingBtn": {
+			"type": "string",
+			"default": ""
+		},
+		"gfcfQuestion": {
+			"type": "boolean",
+			"default": ""
+		},
+		"gfcfLandingHide": {
+			"type": "boolean",
+			"default": ""
+		},
+		"gfcfLandingDesignFullwidth": {
+			"type": "boolean",
+			"default": ""
+		}
+	}
+	
+}
